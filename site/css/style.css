@@ -1,0 +1,20 @@
+#header-nav {
+	background-color:gray;
+    border: solid black;
+    }
+.colortext{color: black;font-size: 30px;}
+
+ #titulo{font-size: 35px;color: black;}
+
+h2{color: black;
+   text-align: center;
+   padding: 2px;
+   font-size: 20px;}
+
+p{margin: 0px 10px 10px 10px;}
+
+
+.menu {background-color:gray;padding:1px 1px ;margin: 10px ;}
+#nav-list{background-color: white; }
+#nav-list a{color: black; border:1px solid black;text-align: center;}
+.navbar-header button.navbar-toggle,.icon-bar {border: 2px solid black;}
